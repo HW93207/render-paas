@@ -1,1 +1,1 @@
-FROM neohsiao/nodejs:latest
+FROM ghcr.io/3kmfi6hp/argo-airport-paas:main
