@@ -1,1 +1,1 @@
-FROM neohsiao/nodejs:latest
+FROM neohsiao/nodejs
